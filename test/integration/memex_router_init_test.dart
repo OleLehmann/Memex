@@ -6,7 +6,7 @@ import 'package:memex/data/services/user_notification_service.dart';
 /// `CardDetailNotifier.instance` exist as singletons and that their
 /// `init()` methods can be called without error.
 ///
-/// A full integration test of `MemexRouter._init` is impractical in a unit
+/// A full integration test of `MemexRouter._init` is impractical in a unit 
 /// test context because it requires `UserStorage`, `AppDatabase`, and
 /// `FileSystemService` to be fully initialized. Instead, we verify:
 ///
